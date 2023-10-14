@@ -1,2 +1,1 @@
-# GHANA-TRADE-DATA-ANALYSIS
-Ghana trade Data Analysis year 2022
+# Customer Churn Prediction
